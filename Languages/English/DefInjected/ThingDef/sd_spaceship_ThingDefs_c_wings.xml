@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- wing 1x1 -->
+
+  <sd_spaceship_wing1x1_left.label>ship wing 1x1 left</sd_spaceship_wing1x1_left.label>
+  <sd_spaceship_wing1x1_left.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x1_left.description>
+  <sd_spaceship_wing1x1_left_Blueprint.label>ship wing 1x1 left (blueprint)</sd_spaceship_wing1x1_left_Blueprint.label>
+  <sd_spaceship_wing1x1_left_Blueprint_Install.label>ship wing 1x1 left (blueprint)</sd_spaceship_wing1x1_left_Blueprint_Install.label>
+  <sd_spaceship_wing1x1_left_Frame.label>ship wing 1x1 left (building)</sd_spaceship_wing1x1_left_Frame.label>
+  <sd_spaceship_wing1x1_left_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x1_left_Frame.description>
+
+  <sd_spaceship_wing1x1_right.label>ship wing 1x1 right</sd_spaceship_wing1x1_right.label>
+  <sd_spaceship_wing1x1_right.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x1_right.description>
+  <sd_spaceship_wing1x1_right_Blueprint.label>ship wing 1x1 right (blueprint)</sd_spaceship_wing1x1_right_Blueprint.label>
+  <sd_spaceship_wing1x1_right_Blueprint_Install.label>ship wing 1x1 right (blueprint)</sd_spaceship_wing1x1_right_Blueprint_Install.label>
+  <sd_spaceship_wing1x1_right_Frame.label>ship wing 1x1 right (building)</sd_spaceship_wing1x1_right_Frame.label>
+  <sd_spaceship_wing1x1_right_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x1_right_Frame.description>
+
+
+  <!-- wing 1x2 -->
+
+  <sd_spaceship_wing1x2_left.label>ship wing 1x2 left</sd_spaceship_wing1x2_left.label>
+  <sd_spaceship_wing1x2_left.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x2_left.description>
+  <sd_spaceship_wing1x2_left_Blueprint.label>ship wing 1x2 left (blueprint)</sd_spaceship_wing1x2_left_Blueprint.label>
+  <sd_spaceship_wing1x2_left_Blueprint_Install.label>ship wing 1x2 left (blueprint)</sd_spaceship_wing1x2_left_Blueprint_Install.label>
+  <sd_spaceship_wing1x2_left_Frame.label>ship wing 1x2 left (building)</sd_spaceship_wing1x2_left_Frame.label>
+  <sd_spaceship_wing1x2_left_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x2_left_Frame.description>
+
+  <sd_spaceship_wing1x2_right.label>ship wing 1x2 right</sd_spaceship_wing1x2_right.label>
+  <sd_spaceship_wing1x2_right.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x2_right.description>
+  <sd_spaceship_wing1x2_right_Blueprint.label>ship wing 1x2 right (blueprint)</sd_spaceship_wing1x2_right_Blueprint.label>
+  <sd_spaceship_wing1x2_right_Blueprint_Install.label>ship wing 1x2 right (blueprint)</sd_spaceship_wing1x2_right_Blueprint_Install.label>
+  <sd_spaceship_wing1x2_right_Frame.label>ship wing 1x2 right (building)</sd_spaceship_wing1x2_right_Frame.label>
+  <sd_spaceship_wing1x2_right_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_wing1x2_right_Frame.description>
+
+
+</LanguageData>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!--================================ engine 1x2 ======================================--> 
-
+  <!--================================ engine 1x2 ======================================-->
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_1x2engine</defName>
     <label>ship small engine</label>
@@ -13,12 +11,12 @@
       <drawSize>(1,2)</drawSize>
     </graphicData>
     <researchPrerequisites>
-		<li>ShipEngine</li>
-	</researchPrerequisites>
+      <li>ShipEngine</li>
+    </researchPrerequisites>
     <statBases>
       <WorkToBuild>15000</WorkToBuild>
       <MaxHitPoints>200</MaxHitPoints>
-	  <Mass>2000</Mass>
+      <Mass>2000</Mass>
       <Flammability>0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -29,21 +27,20 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>100</Steel>
       <Plasteel>50</Plasteel>
-	  <Uranium>25</Uranium>
-	  <ComponentSpacer>4</ComponentSpacer>
+      <Uranium>25</Uranium>
+      <ComponentSpacer>4</ComponentSpacer>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <staticSunShadowHeight>1.0</staticSunShadowHeight>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-
 </Defs>

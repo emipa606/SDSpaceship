@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!--================================ fill parts ======================================-->
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_fill1x1_b</defName>
     <label>ship fill 1x1</label>
@@ -31,7 +29,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>40</Steel>
@@ -39,14 +37,13 @@
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<staticSunShadowHeight>1.0</staticSunShadowHeight>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_fill2x2_s</defName>
     <label>ship fill 2x2</label>
@@ -65,7 +62,7 @@
     <statBases>
       <WorkToBuild>6000</WorkToBuild>
       <MaxHitPoints>400</MaxHitPoints>
-	  <Mass>4000</Mass>
+      <Mass>4000</Mass>
       <Flammability>1.0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -76,7 +73,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>160</Steel>
@@ -84,14 +81,13 @@
       <ComponentIndustrial>8</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<staticSunShadowHeight>1.0</staticSunShadowHeight>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_fill2x3_s</defName>
     <label>ship fill 2x3</label>
@@ -110,7 +106,7 @@
     <statBases>
       <WorkToBuild>6000</WorkToBuild>
       <MaxHitPoints>400</MaxHitPoints>
-	  <Mass>6000</Mass>
+      <Mass>6000</Mass>
       <Flammability>1.0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -121,7 +117,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>240</Steel>
@@ -129,14 +125,13 @@
       <ComponentIndustrial>12</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<staticSunShadowHeight>1.0</staticSunShadowHeight>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_fill3x3_s</defName>
     <label>ship fill 3x3</label>
@@ -155,7 +150,7 @@
     <statBases>
       <WorkToBuild>6000</WorkToBuild>
       <MaxHitPoints>400</MaxHitPoints>
-	  <Mass>9000</Mass>
+      <Mass>9000</Mass>
       <Flammability>1.0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -166,7 +161,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>360</Steel>
@@ -174,12 +169,11 @@
       <ComponentIndustrial>18</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<staticSunShadowHeight>1.0</staticSunShadowHeight>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <staticSunShadowHeight>1.0</staticSunShadowHeight>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-
 </Defs>

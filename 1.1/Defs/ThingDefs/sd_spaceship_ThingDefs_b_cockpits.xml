@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!--================================ cockpit ======================================--> 
-
+  <!--================================ cockpit ======================================-->
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_cockpit</defName>
     <label>ship cockpit</label>
@@ -13,14 +11,14 @@
       <drawSize>(1,2)</drawSize>
     </graphicData>
     <researchPrerequisites>
-		<li>ShipCryptosleep</li>
-	</researchPrerequisites>
+      <li>ShipCryptosleep</li>
+    </researchPrerequisites>
     <pathCost>70</pathCost>
     <fillPercent>0.5</fillPercent>
     <statBases>
       <WorkToBuild>8000</WorkToBuild>
       <MaxHitPoints>200</MaxHitPoints>
-	  <Mass>2000</Mass>
+      <Mass>2000</Mass>
       <Flammability>0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -33,7 +31,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
       <li Class="CompProperties_Explosive">
         <explosiveRadius>2.66</explosiveRadius>
         <explosiveDamageType>Flame</explosiveDamageType>
@@ -44,14 +42,13 @@
       <isPlayerEjectable>true</isPlayerEjectable>
     </building>
     <costList>
-		<Steel>200</Steel>
-		<Uranium>20</Uranium>
-		<ComponentIndustrial>10</ComponentIndustrial>
-		<ComponentSpacer>5</ComponentSpacer>
+      <Steel>200</Steel>
+      <Uranium>20</Uranium>
+      <ComponentIndustrial>10</ComponentIndustrial>
+      <ComponentSpacer>5</ComponentSpacer>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
   </ThingDef>
-
 </Defs>

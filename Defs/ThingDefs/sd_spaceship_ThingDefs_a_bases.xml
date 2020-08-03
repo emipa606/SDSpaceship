@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-<!--================================ Abstract bases ======================================-->
-
+  <!--================================ Abstract bases ======================================-->
   <ThingDef Name="BuildingBase" Abstract="True">
     <category>Building</category>
     <thingClass>Building</thingClass>
@@ -13,36 +11,33 @@
     <repairEffect>Repair</repairEffect>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <filthLeaving>Filth_RubbleBuilding</filthLeaving>
-		<statBases>
-			<SellPriceFactor>0.70</SellPriceFactor>
-		</statBases>
+    <statBases>
+      <SellPriceFactor>0.70</SellPriceFactor>
+    </statBases>
   </ThingDef>
-  
-<!--================================ ship part bases ======================================-->
-
-<ThingDef ParentName="BuildingBase" Name="sd_spaceship_shippart_Base" Abstract="True">
-	<statBases>
-		<Mass>1000</Mass>
-	</statBases>
-	<placeWorkers>
+  <!--================================ ship part bases ======================================-->
+  <ThingDef ParentName="BuildingBase" Name="sd_spaceship_shippart_Base" Abstract="True">
+    <statBases>
+      <Mass>1000</Mass>
+    </statBases>
+    <placeWorkers>
       <li>PlaceWorker_NotUnderRoof</li>
     </placeWorkers>
-	<researchPrerequisites>
+    <researchPrerequisites>
       <li>ShipBasics</li>
     </researchPrerequisites>
-	<minifiedDef>MinifiedThing</minifiedDef>
-	<altitudeLayer>Building</altitudeLayer>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <pathCost>150</pathCost>
     <blockWind>true</blockWind>
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>1</fillPercent>
     <blockLight>False</blockLight>
-	<designationCategory>Ship</designationCategory>
-	<thingCategories>
+    <designationCategory>Ship</designationCategory>
+    <thingCategories>
       <li>BuildingsSpecial</li>
     </thingCategories>
-	<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
   </ThingDef>
-  
 </Defs>

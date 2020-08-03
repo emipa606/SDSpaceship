@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[sd] Spaceship (Continued)</name>
-  	<packageId>Mlie.SDSpaceship</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/SDSpaceship</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of sulusdacors mod for RimWorld 1.1
+  <packageId>Mlie.SDSpaceship</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/SDSpaceship</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of sulusdacors mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=766959460
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
@@ -44,9 +45,9 @@ Details:
 - you need at least one of the vanilla parts somewhere in your ship to pass the games check for ship conditions to start (the beam is not needed)
 
 building depends on the vanilla research:
-- shipbasics -> fillparts + wings
-- ship engines -> engine
-- ship cryocasket -> cockpit
+- shipbasics -&gt; fillparts + wings
+- ship engines -&gt; engine
+- ship cryocasket -&gt; cockpit
 
 the override for the cryocasket just moves the interact spot inside the object and removes the place on beam placeworker. so you can place the casket everywhere now. this is to make building a bit easier and not such a pain. (moved the interact spot from the cockpit added by me inside the object too.)
 

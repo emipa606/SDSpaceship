@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>36e48d4b-7313-42c8-a201-aad20eff0962</ID>
   <ModName>[sd] Spaceship (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,6 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-

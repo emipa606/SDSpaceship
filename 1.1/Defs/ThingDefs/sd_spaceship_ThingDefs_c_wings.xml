@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  
-<!--================================ wing 1x1 ======================================-->
-
+  <!--================================ wing 1x1 ======================================-->
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_wing1x1_left</defName>
     <label>ship wing 1x1 left</label>
@@ -22,7 +20,7 @@
       <WorkToBuild>2000</WorkToBuild>
       <MaxHitPoints>200</MaxHitPoints>
       <Flammability>0</Flammability>
-	  <Mass>500</Mass>
+      <Mass>500</Mass>
     </statBases>
     <tickerType>Normal</tickerType>
     <description>A structural beam around which a ship can be constructed.</description>
@@ -32,7 +30,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>40</Steel>
@@ -40,13 +38,12 @@
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_wing1x1_right</defName>
     <label>ship wing 1x1 right</label>
@@ -66,7 +63,7 @@
       <WorkToBuild>2000</WorkToBuild>
       <MaxHitPoints>200</MaxHitPoints>
       <Flammability>0</Flammability>
-	  <Mass>500</Mass>
+      <Mass>500</Mass>
     </statBases>
     <tickerType>Normal</tickerType>
     <description>A structural beam around which a ship can be constructed.</description>
@@ -76,7 +73,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>40</Steel>
@@ -87,15 +84,13 @@
     <researchPrerequisites>
       <li>ShipBasics</li>
     </researchPrerequisites>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <!--================================ wing 1x2 ======================================-->
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_wing1x2_left</defName>
     <label>ship wing 1x2 left</label>
@@ -114,7 +109,7 @@
     <statBases>
       <WorkToBuild>4000</WorkToBuild>
       <MaxHitPoints>300</MaxHitPoints>
-	  <Mass>1000</Mass>
+      <Mass>1000</Mass>
       <Flammability>0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -125,7 +120,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>80</Steel>
@@ -136,13 +131,12 @@
     <researchPrerequisites>
       <li>ShipBasics</li>
     </researchPrerequisites>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
   <ThingDef ParentName="sd_spaceship_shippart_Base">
     <defName>sd_spaceship_wing1x2_right</defName>
     <label>ship wing 1x2 right</label>
@@ -161,7 +155,7 @@
     <statBases>
       <WorkToBuild>4000</WorkToBuild>
       <MaxHitPoints>300</MaxHitPoints>
-	  <Mass>1000</Mass>
+      <Mass>1000</Mass>
       <Flammability>0</Flammability>
     </statBases>
     <tickerType>Normal</tickerType>
@@ -172,7 +166,7 @@
         <compClass>CompPowerTransmitter</compClass>
         <transmitsPower>true</transmitsPower>
       </li>
-      <li Class="CompProperties_ShipPart"/>
+      <li Class="CompProperties_ShipPart" />
     </comps>
     <costList>
       <Steel>80</Steel>
@@ -183,11 +177,10 @@
     <researchPrerequisites>
       <li>ShipBasics</li>
     </researchPrerequisites>
-	<selectable>true</selectable>
-	<rotatable>true</rotatable>
-		<building>
-			<shipPart>true</shipPart>
-		</building>
+    <selectable>true</selectable>
+    <rotatable>true</rotatable>
+    <building>
+      <shipPart>true</shipPart>
+    </building>
   </ThingDef>
-  
 </Defs>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- fill parts -->
+
+  <sd_spaceship_fill1x1_b.label>ship fill 1x1</sd_spaceship_fill1x1_b.label>
+  <sd_spaceship_fill1x1_b.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill1x1_b.description>
+  <sd_spaceship_fill1x1_b_Blueprint.label>ship fill 1x1 (blueprint)</sd_spaceship_fill1x1_b_Blueprint.label>
+  <sd_spaceship_fill1x1_b_Blueprint_Install.label>ship fill 1x1 (blueprint)</sd_spaceship_fill1x1_b_Blueprint_Install.label>
+  <sd_spaceship_fill1x1_b_Frame.label>ship fill 1x1 (building)</sd_spaceship_fill1x1_b_Frame.label>
+  <sd_spaceship_fill1x1_b_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill1x1_b_Frame.description>
+
+  <sd_spaceship_fill2x2_s.label>ship fill 2x2</sd_spaceship_fill2x2_s.label>
+  <sd_spaceship_fill2x2_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x2_s.description>
+  <sd_spaceship_fill2x2_s_Blueprint.label>ship fill 2x2 (blueprint)</sd_spaceship_fill2x2_s_Blueprint.label>
+  <sd_spaceship_fill2x2_s_Blueprint_Install.label>ship fill 2x2 (blueprint)</sd_spaceship_fill2x2_s_Blueprint_Install.label>
+  <sd_spaceship_fill2x2_s_Frame.label>ship fill 2x2 (building)</sd_spaceship_fill2x2_s_Frame.label>
+  <sd_spaceship_fill2x2_s_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x2_s_Frame.description>
+
+  <sd_spaceship_fill2x3_s.label>ship fill 2x3</sd_spaceship_fill2x3_s.label>
+  <sd_spaceship_fill2x3_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x3_s.description>
+  <sd_spaceship_fill2x3_s_Blueprint.label>ship fill 2x3 (blueprint)</sd_spaceship_fill2x3_s_Blueprint.label>
+  <sd_spaceship_fill2x3_s_Blueprint_Install.label>ship fill 2x3 (blueprint)</sd_spaceship_fill2x3_s_Blueprint_Install.label>
+  <sd_spaceship_fill2x3_s_Frame.label>ship fill 2x3 (building)</sd_spaceship_fill2x3_s_Frame.label>
+  <sd_spaceship_fill2x3_s_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x3_s_Frame.description>
+
+  <sd_spaceship_fill3x3_s.label>ship fill 3x3</sd_spaceship_fill3x3_s.label>
+  <sd_spaceship_fill3x3_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill3x3_s.description>
+  <sd_spaceship_fill3x3_s_Blueprint.label>ship fill 3x3 (blueprint)</sd_spaceship_fill3x3_s_Blueprint.label>
+  <sd_spaceship_fill3x3_s_Blueprint_Install.label>ship fill 3x3 (blueprint)</sd_spaceship_fill3x3_s_Blueprint_Install.label>
+  <sd_spaceship_fill3x3_s_Frame.label>ship fill 3x3 (building)</sd_spaceship_fill3x3_s_Frame.label>
+  <sd_spaceship_fill3x3_s_Frame.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill3x3_s_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- cockpit -->
+
+  <sd_spaceship_cockpit.label>ship cockpit</sd_spaceship_cockpit.label>
+  <sd_spaceship_cockpit.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</sd_spaceship_cockpit.description>
+  <sd_spaceship_cockpit_Blueprint.label>ship cockpit (blueprint)</sd_spaceship_cockpit_Blueprint.label>
+  <sd_spaceship_cockpit_Blueprint_Install.label>ship cockpit (blueprint)</sd_spaceship_cockpit_Blueprint_Install.label>
+  <sd_spaceship_cockpit_Frame.label>ship cockpit (building)</sd_spaceship_cockpit_Frame.label>
+  <sd_spaceship_cockpit_Frame.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</sd_spaceship_cockpit_Frame.description>
+
+
+</LanguageData>
