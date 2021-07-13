@@ -1,14 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- engine 1x2 -->
-
   <sd_spaceship_1x2engine.label>ship small engine</sd_spaceship_1x2engine.label>
   <sd_spaceship_1x2engine.description>An antimatter-powered engine capable of launching a ship into orbit and on interstellar trajectories.</sd_spaceship_1x2engine.description>
   <sd_spaceship_1x2engine_Blueprint.label>ship small engine (blueprint)</sd_spaceship_1x2engine_Blueprint.label>
   <sd_spaceship_1x2engine_Blueprint_Install.label>ship small engine (blueprint)</sd_spaceship_1x2engine_Blueprint_Install.label>
   <sd_spaceship_1x2engine_Frame.label>ship small engine (building)</sd_spaceship_1x2engine_Frame.label>
   <sd_spaceship_1x2engine_Frame.description>An antimatter-powered engine capable of launching a ship into orbit and on interstellar trajectories.</sd_spaceship_1x2engine_Frame.description>
-
-
 </LanguageData>
