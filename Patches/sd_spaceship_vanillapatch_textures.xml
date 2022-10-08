@@ -4,31 +4,31 @@
   <!--========================= no sequence tests! (conflicts if mods remove these vanilla lines) =============================-->
   <!--========================= vanilla textures =============================-->
   <Operation Class="PatchOperationReplace">
-    <xpath>*/ThingDef[defName = "Ship_ComputerCore"]/graphicData/texPath</xpath>
+    <xpath>Defs/ThingDef[defName = "Ship_ComputerCore"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipcompcore</texPath>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
-    <xpath>*/ThingDef[defName = "Ship_Reactor"]/graphicData/texPath</xpath>
+    <xpath>Defs/ThingDef[defName = "Ship_Reactor"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipreactor</texPath>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
-    <xpath>*/ThingDef[defName = "Ship_Engine"]/graphicData/texPath</xpath>
+    <xpath>Defs/ThingDef[defName = "Ship_Engine"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipengine</texPath>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
-    <xpath>*/ThingDef[defName = "Ship_SensorCluster"]/graphicData/texPath</xpath>
+    <xpath>Defs/ThingDef[defName = "Ship_SensorCluster"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipsensorcluster</texPath>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
-    <xpath>*/ThingDef[defName = "Ship_CryptosleepCasket"]/graphicData/texPath</xpath>
+    <xpath>Defs/ThingDef[defName = "Ship_CryptosleepCasket"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipcryptosleepcasket</texPath>
     </value>

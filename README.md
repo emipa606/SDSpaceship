@@ -1,28 +1,19 @@
 # SDSpaceship
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=766959460
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/SDSpaceship]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
 
-# &quot;spaceship&quot;
+# "spaceship"
 
 
 Get your butt off the planet in style ;)
@@ -44,15 +35,15 @@ Get your butt off the planet in style ;)
 - you need at least one of the vanilla parts somewhere in your ship to pass the games check for ship conditions to start (the beam is not needed)
 
 building depends on the vanilla research:
-- shipbasics -&gt; fillparts + wings
-- ship engines -&gt; engine
-- ship cryocasket -&gt; cockpit
+- shipbasics - fillparts + wings
+- ship engines - engine
+- ship cryocasket - cockpit
 
 the override for the cryocasket just moves the interact spot inside the object and removes the place on beam placeworker. so you can place the casket everywhere now. this is to make building a bit easier and not such a pain. (moved the interact spot from the cockpit added by me inside the object too.)
 
 *Ludeon forum topic:*
 https://ludeon.com/forums/index.php?topic=26276
-(has dropbox links,since steam don&apos;t seem to like them for soem reason -.-)
+(has dropbox links,since steam don't seem to like them for soem reason -.-)
 
 **Dropbox:** https://www.dropbox.com/s/97fgrbduv8y6n9q/sd_spaceship_v1.7z?dl=0
 
@@ -60,7 +51,7 @@ Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -70,6 +61,7 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
