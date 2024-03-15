@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--================================ ship part bases ======================================-->
+  <ThingDef ParentName="BuildingBase" Name="sd_spaceship_shippart_Base" Abstract="True">
+    <statBases>
+      <Mass>1000</Mass>
+    </statBases>
+    <placeWorkers>
+      <li>PlaceWorker_NotUnderRoof</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>ShipBasics</li>
+    </researchPrerequisites>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>150</pathCost>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>1</fillPercent>
+    <blockLight>False</blockLight>
+    <designationCategory>Ship</designationCategory>
+    <thingCategories>
+      <li>BuildingsSpecial</li>
+    </thingCategories>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+  </ThingDef>
+</Defs>
