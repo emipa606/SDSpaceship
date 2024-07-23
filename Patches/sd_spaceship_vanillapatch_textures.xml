@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <!--================================ patches for vanilla ship stuff (cryo + beam) ======================================-->
   <!--========================= no sequence tests! (conflicts if mods remove these vanilla lines) =============================-->
@@ -19,6 +19,12 @@
     <xpath>Defs/ThingDef[defName = "Ship_Engine"]/graphicData/texPath</xpath>
     <value>
       <texPath>sd_spaceship/old_vanilla/sd_spaceship_oldshipengine</texPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName = "Ship_Engine"]/graphicData/graphicClass</xpath>
+    <value>
+      <graphicClass>Graphic_Single</graphicClass>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

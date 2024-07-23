@@ -1,5 +1,8 @@
 # Changelog for SDSpaceship
 
+1.5.1 - The vanilla ship engine should now be rotated in all directions
+
+
 1.5.0 - Mod updated for 1.5 and passed autotests
 
 

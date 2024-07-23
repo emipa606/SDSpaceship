@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--================================ ship part bases ======================================-->
   <ThingDef ParentName="BuildingBase" Name="sd_spaceship_shippart_Base" Abstract="True">
