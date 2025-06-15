@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ship fill 1x1 -->
+  <sd_spaceship_fill1x1_b.label>ship fill 1x1</sd_spaceship_fill1x1_b.label>
+  <!-- EN: A structural beam around which a ship can be constructed. -->
+  <sd_spaceship_fill1x1_b.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill1x1_b.description>
+  <!-- EN: ship fill 2x2 -->
+  <sd_spaceship_fill2x2_s.label>ship fill 2x2</sd_spaceship_fill2x2_s.label>
+  <!-- EN: A structural beam around which a ship can be constructed. -->
+  <sd_spaceship_fill2x2_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x2_s.description>
+  <!-- EN: ship fill 2x3 -->
+  <sd_spaceship_fill2x3_s.label>ship fill 2x3</sd_spaceship_fill2x3_s.label>
+  <!-- EN: A structural beam around which a ship can be constructed. -->
+  <sd_spaceship_fill2x3_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill2x3_s.description>
+  <!-- EN: ship fill 3x3 -->
+  <sd_spaceship_fill3x3_s.label>ship fill 3x3</sd_spaceship_fill3x3_s.label>
+  <!-- EN: A structural beam around which a ship can be constructed. -->
+  <sd_spaceship_fill3x3_s.description>A structural beam around which a ship can be constructed.</sd_spaceship_fill3x3_s.description>
+</LanguageData>

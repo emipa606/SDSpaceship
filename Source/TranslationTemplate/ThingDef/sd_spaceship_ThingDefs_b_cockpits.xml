@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ship cockpit -->
+  <sd_spaceship_cockpit.label>ship cockpit</sd_spaceship_cockpit.label>
+  <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry. -->
+  <sd_spaceship_cockpit.description>A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.</sd_spaceship_cockpit.description>
+</LanguageData>

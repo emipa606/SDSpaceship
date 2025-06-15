@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2295100994
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5667313f1093477516afad4194c6be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5667313f1093477516afad4194c6be0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipcryptosleepcasket_north.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/engines/sd_spaceship_engine1x2.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/fillparts/sd_spaceship_fill1x1_b.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipcompcore_north.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/cockpits/sd_spaceship_cockpit.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/fillparts/sd_spaceship_fill3x3_s.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/menu_icons/sd_spaceship_dragable_beam_menuicon.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/wings/sd_spaceship_wing1x1_left.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/fillparts/sd_spaceship_fill2x2_s.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/dragable_beam/sd_spaceship_beamlink.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipengine.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/wings/sd_spaceship_wing1x1_right.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipcryptosleepcasket_east.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/fillparts/sd_spaceship_fill2x3_s.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipsensorcluster_north.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/wings/sd_spaceship_wing1x2_left.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/wings/sd_spaceship_wing1x2_right.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipreactor_north.png
+- Assets/Data/Mlie.SDSpaceship/Textures/sd_spaceship/old_vanilla/sd_spaceship_oldshipcryptosleepcasket_south.png
+Dependencies: []

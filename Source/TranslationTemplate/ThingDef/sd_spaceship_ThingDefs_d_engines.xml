@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ship small engine -->
+  <sd_spaceship_1x2engine.label>ship small engine</sd_spaceship_1x2engine.label>
+  <!-- EN: An antimatter-powered engine capable of launching a ship into orbit and on interstellar trajectories. -->
+  <sd_spaceship_1x2engine.description>An antimatter-powered engine capable of launching a ship into orbit and on interstellar trajectories.</sd_spaceship_1x2engine.description>
+</LanguageData>
